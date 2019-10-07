@@ -25,6 +25,7 @@ Happy Hacktoberfest 2019! If you are a beginner, and looking for your first cont
 ### 3. Create a New Branch
 
 ##### use the `git branch new-branch` command for create a new branch.
+##### change the branch master name for one of your own.
 
 ###### Now that our new branch is created, we can switch to make sure that we are working on that branch by using the git checkout command:
 
