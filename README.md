@@ -31,6 +31,9 @@ Happy Hacktoberfest 2019! If you are a beginner, and looking for your first cont
 ##### ` git checkout new-branch `
 
 ##### ` git add -A ` or ` git add . ` for adding the changes file.
+git add -A stages all changes
+git add . stages new files and modifications, without deletions
+git add -u stages modifications and deletions, without new files
 
 ##### ` git commit -m " here type your message " ` for comminting.
 
