@@ -3,7 +3,7 @@ Repository for coding newbies.
 ## Feel free to fork and contribute :)
 
 # How to contribute to this project or Open Source ?
-Happy Hacktober! If you are a beginner, and looking for your first contribution. please follow these steps :-
+Happy Hacktoberfest 2019! If you are a beginner, and looking for your first contribution. please follow these steps :-
 
 ## Note :
 ### Before contributing to this project plese read the ISSUE and then start to contribute for that issue.
