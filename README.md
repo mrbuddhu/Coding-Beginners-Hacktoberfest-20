@@ -9,9 +9,9 @@
 Repository for coding newbies.
 ## Feel free to fork and contribute :)
 
+![HF2020 Events 1600x400 Centered](https://user-images.githubusercontent.com/40789486/94894828-c371d980-04a7-11eb-9374-9da9dd1b95b6.png)
 # How to contribute to this project or Open Source ?
-Happy Hacktoberfest 2019! If you are a beginner, and looking for your first contribution. please follow these steps :-
-
+Happy Hacktoberfest! If you are a beginner, and looking for your first contribution. please follow these steps :-
 ## Note :
 ### Before contributing to this project plese read the ISSUE and then start to contribute for that issue.
 
