@@ -17,6 +17,9 @@ Happy Hacktoberfest! If you are a beginner, and looking for your first contribut
 
 
 ## Instructions :
+### 0.Star this Repository
+###### Star this repository on GitHub by navigating at the top-right of the repository.
+
 ### 1. Fork this Repository
 ###### fork 🍽️ this repository on GitHub by navigating at the top of this repository.
 
